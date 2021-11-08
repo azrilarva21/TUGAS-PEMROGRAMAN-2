@@ -1,0 +1,7 @@
+c:\users\mylenovo\documents\visual studio 2015\Projects\P1_4_1204011\P1_4_1204011\bin\Debug\P1_4_1204011.exe.config
+c:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P1_4_1204011\P1_4_1204011\bin\Debug\P1_4_1204011.exe
+c:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P1_4_1204011\P1_4_1204011\bin\Debug\P1_4_1204011.pdb
+c:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P1_4_1204011\P1_4_1204011\obj\Debug\P1_4_1204011.csprojAssemblyReference.cache
+c:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P1_4_1204011\P1_4_1204011\obj\Debug\P1_4_1204011.csproj.CoreCompileInputs.cache
+c:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P1_4_1204011\P1_4_1204011\obj\Debug\P1_4_1204011.exe
+c:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P1_4_1204011\P1_4_1204011\obj\Debug\P1_4_1204011.pdb
